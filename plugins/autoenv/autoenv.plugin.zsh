@@ -17,6 +17,10 @@ In the meantime the autoenv plugin is DISABLED.
 END
     return 1
   fi
+<<<<<<< HEAD
+=======
+  source $autoenv_dir/activate.sh
+>>>>>>> upstream/master
 fi
 }
 [[ $? != 0 ]] && return $?
