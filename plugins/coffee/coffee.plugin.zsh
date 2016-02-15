@@ -11,7 +11,11 @@ cfc () {
 
 # compile from clipboard & print
 <<<<<<< HEAD
+<<<<<<< HEAD
 alias cfp='coffeeMe "$(clippaste)"'
+=======
+alias cfp='cf "$(clippaste)"'
+>>>>>>> upstream/master
 =======
 alias cfp='cf "$(clippaste)"'
 >>>>>>> upstream/master

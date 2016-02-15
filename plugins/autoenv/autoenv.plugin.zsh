@@ -18,6 +18,10 @@ END
     return 1
   fi
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  source $autoenv_dir/activate.sh
+>>>>>>> upstream/master
 =======
   source $autoenv_dir/activate.sh
 >>>>>>> upstream/master
